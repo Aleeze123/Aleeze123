@@ -16,8 +16,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/13/62/10/136210af71066c9201edfc5919d61025.jpg">
  
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,github,instagram,vscode,npm,twitter,linkedIn,discord=5)](https://skillicons.dev)
@@ -26,6 +24,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleeze123&theme=dark)
 
-
+ <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/13/62/10/136210af71066c9201edfc5919d61025.jpg">
 <br>
 ⭐️ From [Aleeza](https://github.com/Aleeze123#:~:text=Aleeze,-Aleeze123%20%C2%B7%20she)
