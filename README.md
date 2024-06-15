@@ -18,7 +18,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,github,instagram,vscode,npm,twitter,wordpress,linkedIn,discord,c#&c++=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,github,instagram,vscode,npm,twitter,wordpress,linkedIn,discord,c++=5)](https://skillicons.dev)
 
 ![Aleeza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleeze123&show_icons=true&theme=dark)
 
