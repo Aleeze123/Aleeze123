@@ -1,6 +1,5 @@
  <h1 align="center">Hi 👋, I'm Aleeza</h1>
-
-  <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
   
 - 🔭 I am currently serving as a senior student at the prestigious Governor House IT Course.
@@ -19,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+ 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,github,instagram,vscode,npm,twitter,linkedIn,discord=5)](https://skillicons.dev)
 
