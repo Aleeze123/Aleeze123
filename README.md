@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Aleeza</h1>
 
- 
+  <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 - 🔭 I am currently serving as a senior student at the prestigious Governor House IT Course.
 - 💬 Ask anything....
 - 📫 How to reach me: alizey649@gmail.com
