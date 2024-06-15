@@ -1,5 +1,4 @@
  <h1 align="center">Hi 👋, I'm Aleeza</h1>
-<img align="right" alt="coding"width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ehlers-danlos.org%2Fhelp%2Fraise-money-in-your-community%2Fe-cards%2F&psig=AOvVaw0P7Gzebqac0eEurkvA5mCk&ust=1718565229864000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNig6MWo3oYDFQAAAAAdAAAAABBC">
 - 🔭 I am currently serving as a senior student at the prestigious Governor House IT Course.
 - 💬 Ask anything....
 - 📫 How to reach me: alizey649@gmail.com
