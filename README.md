@@ -1,4 +1,6 @@
  <h1 align="center">Hi 👋, I'm Aleeza</h1>
+
+ 
 - 🔭 I am currently serving as a senior student at the prestigious Governor House IT Course.
 - 💬 Ask anything....
 - 📫 How to reach me: alizey649@gmail.com
