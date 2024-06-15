@@ -4,7 +4,7 @@
 - 🔭 I am currently serving as a senior student at the prestigious Governor House IT Course.
 - 💬 Ask anything....
 - 📫 How to reach me: alizey649@gmail.com
-  <img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/image-vector/illustration-kid-girl-happy-learn-something-1019429095">
+  <img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/M9eQpMmico4Sr8nX6">
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/Aleeze123#:~:text=Aleeze,-Aleeze123%20%C2%B7%20she">
