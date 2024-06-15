@@ -3,8 +3,6 @@
 - 🔭 I am currently serving as a senior student at the prestigious Governor House IT Course.
 - 💬 Ask anything....
 - 📫 How to reach me: alizey649@gmail.com
-  
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/13/62/10/136210af71066c9201edfc5919d61025.jpg">
 
 ### Connect with me:
 <div id="badges">
@@ -18,6 +16,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+ <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/13/62/10/136210af71066c9201edfc5919d61025.jpg">
  
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,github,instagram,vscode,npm,twitter,linkedIn,discord=5)](https://skillicons.dev)
