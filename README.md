@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/13/62/10/136210af71066c9201edfc5919d61025.jpg">
 
 - 🔭 I am currently serving as a senior student at the prestigious Governor House IT Course.
-- 💬 Ask anything....
+- 💬 Ask anything about Typescript, Javascript, Html and Css....
 - 📫 How to reach me: alizey649@gmail.com
 
 ### Connect with me:
