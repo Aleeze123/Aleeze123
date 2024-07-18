@@ -6,6 +6,7 @@
 - 💬 Ask anything about Typescript, Javascript, HTML and CSS....
 - 📫 How to reach me: alizey649@gmail.com , https://www.linkedin.com/in/aleeza-a-i68735305/#:~:text=www.linkedin.com/in/aleeza%2Da%2Di68735305
 -  😄 Pronouns: she/her ...
+-  Karachi + MPK
 
 ### Connect with me:
 <div id="badges">
