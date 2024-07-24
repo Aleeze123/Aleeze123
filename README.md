@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Aleeza</h1>
+ <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px">, I'm Aleeza...</h1>
  
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/13/62/10/136210af71066c9201edfc5919d61025.jpg">
 
