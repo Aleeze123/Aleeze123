@@ -1,7 +1,7 @@
  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px">, I'm Aleeza...</h1>
  <h2 align="center">Future Certified Cloud Applied Generative AI Engineer ....</h2>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/13/62/10/136210af71066c9201edfc5919d61025.jpg">
-
+<!-- <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/13/62/10/136210af71066c9201edfc5919d61025.jpg"> -->
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/d4/7f/f1/d47ff194005b469197da86023e9e0405.jpg">
 - 🔭 I am currently serving as a senior student at the prestigious Governor House IT Course.
 - 💬 Ask anything about Typescript, Javascript, HTML and CSS....
 - 📫 How to reach me: alizey649@gmail.com , https://www.linkedin.com/in/aleeza-a-i68735305/#:~:text=www.linkedin.com/in/aleeza%2Da%2Di68735305
