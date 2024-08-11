@@ -32,6 +32,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleeze123&theme=dark)
 
 <br>
+---
 [![](https://visitcount.itsvg.in/api?id=Aleeze123&icon=0&color=cyan)](https://visitcount.itsvg.in)
 
 
