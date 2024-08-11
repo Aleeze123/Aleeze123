@@ -9,6 +9,8 @@
 - 💬 Ask anything about Typescript, Javascript, HTML and CSS....
 - 📫 How to reach me: alizey649@gmail.com , https://www.linkedin.com/in/aleeza-a-i68735305/#:~:text=www.linkedin.com/in/aleeza%2Da%2Di68735305
 -  😄 Pronouns: she/her ...
+<br>
+[![](https://visitcount.itsvg.in/api?id=Aleeze123&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### Connect with me:
 <div id="badges">
@@ -30,8 +32,7 @@
 ![Aleeza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleeze123&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleeze123&theme=dark)
-<br>
-[![](https://visitcount.itsvg.in/api?id=Aleeze123&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ⭐️ From [Aleeza](https://github.com/Aleeze123#:~:text=Aleeze,-Aleeze123%20%C2%B7%20she)
