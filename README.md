@@ -1,7 +1,8 @@
  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px">, I'm Aleeza...</h1>
  <h2 align="center">Future Certified Cloud Applied Generative AI Engineer ....</h2>
---------
-[![](https://visitcount.itsvg.in/api?id=Aleeze123&label=Profile%20Views%2011.70k&color=11&icon=8&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Aleeze123&label=Profile%20Views%2011.70k&color=11&icon=8&pretty=true" />
+</a>
 
 
 <!-- <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/13/62/10/136210af71066c9201edfc5919d61025.jpg"> -->
