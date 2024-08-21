@@ -1,5 +1,8 @@
  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px">, I'm Aleeza...</h1>
  <h2 align="center">Future Certified Cloud Applied Generative AI Engineer ....</h2>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Aleeze123&label=Profile%20Views%2011.70k&color=11&pretty=true" />
+</a>
 <!-- <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/13/62/10/136210af71066c9201edfc5919d61025.jpg"> -->
 <!-- <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/d4/7f/f1/d47ff194005b469197da86023e9e0405.jpg"> -->
 <img align="right" alt="Coding" width="250"  src="https://i.pinimg.com/736x/02/cb/0d/02cb0daf9c44269962986a84c49f2495.jpg">
@@ -31,11 +34,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleeze123&theme=dark)
 
-
----
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Aleeze123&label=&color=11&icon=5&pretty=true" />
-</a>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
