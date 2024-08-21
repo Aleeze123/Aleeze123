@@ -1,7 +1,7 @@
  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px">, I'm Aleeza...</h1>
  <h2 align="center">Future Certified Cloud Applied Generative AI Engineer ....</h2>
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Aleeze123&label=Profile%20Views%2011.70k&color=11&icon=8&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=Aleeze123&label=Profile%20Views%20&color=11&icon=8&pretty=true" />
 </a>
 
 
