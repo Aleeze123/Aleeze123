@@ -18,7 +18,7 @@
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/Aleeze123#:~:text=Aleeze,-Aleeze123%20%C2%B7%20she">
-    <img src="https://img.shields.io/badge/Github-pink?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/Github-deeppink?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
    <a href="https://www.instagram.com/aleeze__1710/#">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
