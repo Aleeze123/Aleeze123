@@ -18,14 +18,14 @@
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/Aleeze123#:~:text=Aleeze,-Aleeze123%20%C2%B7%20she">
-    <img src="https://img.shields.io/badge/Github-orange?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/Github-gold?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
  
    <a href="https://www.instagram.com/aleeze__1710/#">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
    <a href="https://www.linkedin.com/in/aleeza-a-i68735305/#:~:text=www.linkedin.com/in/aleeza%2Da%2Di68735305">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-cyan?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  <a href="https://www.youtube.com/@alizey_a">
     <img src="https://img.shields.io/badge/Youtube-maroon?style=for-the-badge&logo=Youtube&logoColor=white" alt="Youtube Badge"/>
