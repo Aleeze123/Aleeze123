@@ -27,8 +27,8 @@
    <a href="https://www.linkedin.com/in/aleeza-a-i68735305/#:~:text=www.linkedin.com/in/aleeza%2Da%2Di68735305">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- <a href="www.youtube.com/@alizey_a">
-    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=Youtube&logoColor=white" alt="Youtube Badge"/>
+ <a href="https://www.youtube.com/@alizey_a">
+    <img src="https://img.shields.io/badge/Youtube-maroon?style=for-the-badge&logo=Youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
  
