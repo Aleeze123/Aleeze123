@@ -5,10 +5,10 @@
 </a>
 
 
-<!-- <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/13/62/10/136210af71066c9201edfc5919d61025.jpg"> -->
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/84/a0/7e/84a07e5c227ad2345d7e807925849ee2.jpg"> 
 
-<img align="right" alt="Coding" width="300" src="![image](https://github.com/user-attachments/assets/8f4f5c78-2168-4258-a986-ac17739a1d78)
-"> 
+
+
 <!--<img align="right" alt="Coding" width="250"  src="https://i.pinimg.com/736x/02/cb/0d/02cb0daf9c44269962986a84c49f2495.jpg">-->
 
 <!--https://i.pinimg.com/736x/84/a0/7e/84a07e5c227ad2345d7e807925849ee2.jpg  -->
