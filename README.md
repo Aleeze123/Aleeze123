@@ -11,7 +11,6 @@
 
 <!--<img align="right" alt="Coding" width="250"  src="https://i.pinimg.com/736x/02/cb/0d/02cb0daf9c44269962986a84c49f2495.jpg">-->
 
-<!--https://i.pinimg.com/736x/84/a0/7e/84a07e5c227ad2345d7e807925849ee2.jpg  -->
 - 🔭 I am currently serving as a senior student at the prestigious Governor House IT Course.
 - 💬 Ask anything about Typescript, Javascript, HTML and CSS....
 - 📫 How to reach me: alizey649@gmail.com , https://www.linkedin.com/in/aleeza-a-i68735305/#:~:text=www.linkedin.com/in/aleeza%2Da%2Di68735305
