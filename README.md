@@ -34,12 +34,19 @@
 
 ### Languages and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,github,linkedin,discord&perline=5" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,github,linkedin,discord&perline=5&theme=light" />
 </p>
 
-![Aleeza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleeze123&show_icons=true&theme=dark)
+### GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aleeze123&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" alt="Aleeza's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleeze123&theme=radical&layout=compact" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleeze123&theme=dark&layout=compact)
+### Animated Snake:
+<p align="center">
+  <img src="https://github.com/Aleeze123/Aleeze123/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ⭐️ From [Aleeza](https://github.com/Aleeze123)
