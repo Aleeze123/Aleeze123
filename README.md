@@ -2,18 +2,12 @@
 <h2 align="center">Future Certified Cloud Applied Generative AI Engineer ....</h2>
 
 <!-- Profile Views Counter and Coding Image -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
+ <img width="150" src="https://visitcount.itsvg.in/api?id=Aleeze123&label=Profile%20Views%20&color=11&icon=8&pretty=true" />
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/84/a0/7e/84a07e5c227ad2345d7e807925849ee2.jpg"/>
     <p style="margin: 0;">- 🔭 I am currently serving as a senior student at the prestigious Governor House IT Course.</p>
     <p style="margin: 0;">- 💬 Ask anything about Typescript, Javascript, HTML and CSS....</p>
-    <p style="margin: 0;">- 📫 How to reach me: alizey649@gmail.com , <a href="https://www.linkedin.com/in/aleeza-a-i68735305/#:~:text=www.linkedin.com/in/aleeza%2Da%2Di68735305">LinkedIn Profile</a></p>
+    <p style="margin: 0;">- 📫 How to reach me: alizey649@gmail.com , <a href="https://www.linkedin.com/in/aleeza-a-i68735305/#:~:text=www.linkedin.com/in/aleeza%2Da%2Di68735305"></a></p>
     <p style="margin: 0;">- 😄 Pronouns: she/her ...</p>
-  </div>
-  <div>
-    <img width="150" src="https://visitcount.itsvg.in/api?id=Aleeze123&label=Profile%20Views%20&color=11&icon=8&pretty=true" />
-    <img alt="Coding" width="300" src="https://i.pinimg.com/736x/84/a0/7e/84a07e5c227ad2345d7e807925849ee2.jpg">
-  </div>
-</div>
 
 ### Connect with me:
 <div id="badges">
