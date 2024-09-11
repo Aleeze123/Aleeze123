@@ -4,12 +4,13 @@
   <img src="https://visitcount.itsvg.in/api?id=Aleeze123&label=Profile%20Views%20&color=11&icon=8&pretty=true" />
 </a>
 
+<!-- Move this line to the right side -->
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/84/a0/7e/84a07e5c227ad2345d7e807925849ee2.jpg">
+
 - 🔭 I am currently serving as a senior student at the prestigious Governor House IT Course.
 - 💬 Ask anything about Typescript, Javascript, HTML and CSS....
 - 📫 How to reach me: alizey649@gmail.com , <a href="https://www.linkedin.com/in/aleeza-a-i68735305/#:~:text=www.linkedin.com/in/aleeza%2Da%2Di68735305">LinkedIn Profile</a>
 - 😄 Pronouns: she/her ...
-
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/84/a0/7e/84a07e5c227ad2345d7e807925849ee2.jpg">
 
 ### Connect with me:
 <div id="badges">
@@ -36,3 +37,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ⭐️ From <a href="https://github.com/Aleeze123#:~:text=Aleeze,-Aleeze123%20%C2%B7%20she">Aleeza</a>
+
