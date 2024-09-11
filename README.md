@@ -4,13 +4,14 @@
 <!-- Profile Views Counter and Coding Image -->
  <img width="150" src="https://visitcount.itsvg.in/api?id=Aleeze123&label=Profile%20Views%20&color=11&icon=8&pretty=true" />
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/84/a0/7e/84a07e5c227ad2345d7e807925849ee2.jpg"/>
-    <p style="margin: 0;">- 🔭 I am currently serving as a senior student at the prestigious Governor House IT Course.</p>
-    <p style="margin: 0;">- 💬 Ask anything about Typescript, Javascript, HTML and CSS....</p>
-    <p style="margin: 0;">- 📫 How to reach me: alizey649@gmail.com , <a href="https://www.linkedin.com/in/aleeza-a-i68735305/#:~:text=www.linkedin.com/in/aleeza%2Da%2Di68735305"></a></p>
-    <p style="margin: 0;">- 😄 Pronouns: she/her ...</p>
+   <p>
+  - 🔭 I am currently serving as a senior student at the prestigious Governor House IT Course.<br>
+  - 💬 Ask anything about Typescript, Javascript, HTML and CSS....<br>
+  - 📫 How to reach me: alizey649@gmail.com , <a href="https://www.linkedin.com/in/aleeza-a-i68735305/#:~:text=www.linkedin.com/in/aleeza%2Da%2Di68735305">LinkedIn Profile</a><br>
+  - 😄 Pronouns: she/her ...
+</p>
 
 ### Connect with me:
- id="badges">
   <a href="https://github.com/Aleeze123#:~:text=Aleeze,-Aleeze123%20%C2%B7%20she">
     <img src="https://img.shields.io/badge/Github-deeppink?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
