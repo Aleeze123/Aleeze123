@@ -7,7 +7,7 @@
    <p>
   - 🔭 I am currently serving as a senior student at the prestigious Governor House IT Course.<br>
   - 💬 Ask anything about Typescript, Javascript, HTML and CSS....<br>
-  - 📫 How to reach me: alizey649@gmail.com , <a href="https://www.linkedin.com/in/aleeza-a-i68735305/#:~:text=www.linkedin.com/in/aleeza%2Da%2Di68735305">LinkedIn Profile</a><br>
+  - 📫 How to reach me: alizey649@gmail.com , <a href="https://www.linkedin.com/in/aleeza-a-i68735305/#:~:text=www.linkedin.com/in/aleeza%2Da%2Di68735305"></a><br>
   - 😄 Pronouns: she/her ...
 </p>
 
