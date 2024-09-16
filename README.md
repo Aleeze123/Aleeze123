@@ -13,7 +13,7 @@
 
 ###  🌐 Socials::
   <a href="https://github.com/Aleeze123#:~:text=Aleeze,-Aleeze123%20%C2%B7%20she">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/Github-coral?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
   <a href="https://www.instagram.com/aleeze__1710/#">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
@@ -35,7 +35,7 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,github,instagram,vscode,npm,twitter,linkedIn,discord=5)](https://skillicons.dev)
 
-# 🌹 GitHub Stats:
+# 🚀 GitHub Stats:
 ![Aleeza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleeze123&show_icons=true&theme=dark)
 
 
