@@ -7,7 +7,7 @@
    <p>
   - 🔭 I am currently serving as a student at the prestigious Governor sindh IT Course.<br>
   - 💬 Ask anything....<br>
-  - 📫 How to reach me: alizey649@gmail.com , <a href="https://www.linkedin.com/in/aleeza-a-i68735305/#:~:text=www.linkedin.com/in/aleeza%2Da%2Di68735305"></a><br>
+  - 📫 How to reach me: alizey649@gmail.com , "https://www.linkedin.com/in/aleeza-a-i68735305/#:~:text=www.linkedin.com/in/aleeza%2Da%2Di68735305"<br>
   - 😄 Pronouns: she/her ...
 </p>
 
