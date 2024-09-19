@@ -5,7 +5,7 @@
  <img width="150" src="https://visitcount.itsvg.in/api?id=Aleeze123&label=Profile%20Views%20&color=11&icon=8&pretty=true" />
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/84/a0/7e/84a07e5c227ad2345d7e807925849ee2.jpg"/>
    <p>
-  - 🔭 I am currently serving as a senior student at the prestigious Governor House IT Course.<br>
+  - 🔭 I am currently serving as a student at the prestigious Governor sindh IT Course.<br>
   - 💬 Ask anything....<br>
   - 📫 How to reach me: alizey649@gmail.com , <a href="https://www.linkedin.com/in/aleeza-a-i68735305/#:~:text=www.linkedin.com/in/aleeza%2Da%2Di68735305"></a><br>
   - 😄 Pronouns: she/her ...
