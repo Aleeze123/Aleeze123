@@ -36,9 +36,8 @@
 
 
 ### Languages and Tools:
-[![My Skills]
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,github,instagram,vscode,npm,react.js,nextjs,linux,mongodb" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,github,npm,react.js,nextjs,linux,mongodb" alt="My Skills" />
 </a>
 
 # 🚀 GitHub Stats:
