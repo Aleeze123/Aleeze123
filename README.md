@@ -36,8 +36,8 @@
 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,github,instagram,vscode,npm,twitter,linkedIn,discord=5)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,github,instagram,vscode,npm,twitter,linkedIn,discord=5)](https://skillicons.dev)img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 # 🚀 GitHub Stats:
 ![Aleeza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleeze123&show_icons=true&theme=dark)
 
