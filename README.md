@@ -36,12 +36,11 @@
 
 
 ### Languages and Tools:
-[![My Skills]/*(https://skillicons.dev/icons?i=typescript,javascript,github,instagram,vscode,npm,twitter,linkedIn,discord=5)](https://skillicons.dev)<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+[![My Skills]/*(https://skillicons.dev/icons?i=typescript,javascript,github,instagram,vscode,npm,twitter,linkedIn,discord=5)](https://skillicons.dev)<img 
 
 
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,github,instagram,vscode,npm,twitter,linkedIn,mongodb,nextjs,linux=5" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,github,instagram,vscode,npm,twitter,linkedIn,nextjs,linux,mongodb" alt="My Skills" />
 </a>
 
 # 🚀 GitHub Stats:
