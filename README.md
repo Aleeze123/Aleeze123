@@ -2,7 +2,7 @@
 <h2 align="center">Future Certified Cloud Applied Generative AI Engineer ....</h2>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Aleeze123&label=Awesome%20Profile%20Views&color=FF6347&style=flat-square&labelColor=FFFFFF" alt="Profile Views Counter" width="18%" /> 
+  <img src="https://komarev.com/ghpvc/?username=Aleeze123&label=%20Profile%20Views&color=FF6347&style=flat-square&labelColor=FFFFFF" alt="Profile Views Counter" width="18%" /> 
 </p>
 
 
