@@ -2,7 +2,8 @@
 <h2 align="center">Future Certified Cloud Applied Generative AI Engineer ....</h2>
 
 <!-- Profile Views Counter and Coding Image -->
- <img width="150" src="https://visitcount.itsvg.in/api?id=Aleeze123&label=Profile%20Views%20&color=11&icon=8&pretty=true" />
+ <img width="150" src="<img src="https://visitor-badge.glitch.me/badge?page_id=Aleeze123" alt="Profile Views">
+" />
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/84/a0/7e/84a07e5c227ad2345d7e807925849ee2.jpg"/>
     <a href="https://github.com/Aleeze123?tab=followers">
         <img src="https://img.shields.io/github/followers/Aleeze123?label=Followers&style=social" alt="">
