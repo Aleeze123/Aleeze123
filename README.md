@@ -36,9 +36,10 @@
 
 
 ### Languages and Tools:
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,github,npm,react.js,nextjs,linux,mongodb"=9 alt="My Skills" />
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,github,npm,react.js,nextjs,linux,mongodb,python,docker,aws" alt="My Skills" />
 </a>
+
 
 # 🚀 GitHub Stats:
 ![Aleeza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleeze123&show_icons=true&theme=dark)
