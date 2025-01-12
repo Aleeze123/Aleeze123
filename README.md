@@ -1,7 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px">, I'm Aleeza...</h1>
 <h2 align="center">Future Certified Cloud Applied Generative AI Engineer ....</h2>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Aleeze123&label=Profile%20views&color=1E90FF&style=flat" alt="Profile Views Counter" width="18%" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Aleeze123&label=Awesome%20Profile%20Views&color=FF6347&style=flat-square&labelColor=FFFFFF" alt="Profile Views Counter" width="18%" /> 
+</p>
 
 
 
