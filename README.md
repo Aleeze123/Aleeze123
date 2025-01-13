@@ -19,7 +19,7 @@
   - 😄 Pronouns: she/her ...
 </p>
 
-###  🌐 Socials::
+###  🌐 Socials:
   <a href="https://github.com/Aleeze123#:~:text=Aleeze,-Aleeze123%20%C2%B7%20she">
     <img src="https://img.shields.io/badge/Github-coral?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
