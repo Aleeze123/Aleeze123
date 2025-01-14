@@ -1,3 +1,7 @@
+Log in
+
+Sign up
+You said:
 <h1 align="center">Hey 👋, I'm Aleeza...</h1>
 
 <h2 align="center">Future Certified Cloud Applied Generative AI Engineer 🚀</h2>
@@ -6,31 +10,19 @@
   <img src="https://komarev.com/ghpvc/?username=Aleeze123&label=%20Profile%20Views&color=FF6347&style=flat-square&labelColor=FFFFFF" alt="Profile Views Counter" width="18%" /> 
 </p>
 
-<p align="center">
-    <img align="center" alt="Coding" width="300" src="https://i.pinimg.com/736x/84/a0/7e/84a07e5c227ad2345d7e807925849ee2.jpg"/>
-</p>
 
-<p align="center">
+
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/84/a0/7e/84a07e5c227ad2345d7e807925849ee2.jpg"/>
     <a href="https://github.com/Aleeze123?tab=followers">
-        <img src="https://img.shields.io/github/followers/Aleeze123?label=Followers&style=social" alt="GitHub Followers">
+        <img src="https://img.shields.io/github/followers/Aleeze123?label=Followers&style=social" alt="">
     </a>
+   <p>
+  - 🔭 I am currently serving as a student at the prestigious Governor sindh IT Course.<br>
+  - 💬 Ask anything....<br>
+  - 📫 How to reach me: alizey649@gmail.com , 
+    https://www.linkedin.com/in/aleeza-a-i68735305/#:~:text=www.linkedin.com/in/aleeza%2Da%2Di68735305<br>
+  - 😄 Pronouns: she/her ...
 </p>
-
-### About Me
-
-- 🔭 I am currently serving as a student at the prestigious Governor Sindh IT Course.
-- 💬 Ask me anything! I'm always happy to connect and learn.
-- 📫 How to reach me:
-  - Email: [alizey649@gmail.com](mailto:alizey649@gmail.com)
-  - LinkedIn: [Aleeza on LinkedIn](https://www.linkedin.com/in/aleeza-a-i68735305/#:~:text=www.linkedin.com/in/aleeza%2Da%2Di68735305)
-- 😄 Pronouns: she/her
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vRoxw8yWKn62ltm/giphy.gif" width="200" align="left" alt="Patel Left GIF"/>
-  <img src="https://media.giphy.com/media/3o6gE5aYq3zVxXjdfu/giphy.gif" width="200" align="right" alt="Patel Right GIF"/>
-</p>
-
 
 ###  🌐 Socials:
   <a href="https://github.com/Aleeze123#:~:text=Aleeze,-Aleeze123%20%C2%B7%20she">
