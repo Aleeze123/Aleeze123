@@ -58,9 +58,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aleeze123&theme=dark&hide_border=false)<br/>
 
-## Watch snake eating my github contributions 
- 
-![snake_gif](https://github.com/Aleeze123/Aleeze123/blob/output/github-snake-dark.svg)
 
   
 ### ✍️ Random Dev Quote
