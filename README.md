@@ -58,9 +58,9 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aleeze123&theme=dark&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aleeze123&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+## Watch snake eating my github contributions 
+ 
+![snake_gif](https://github.com/Aleeze123/Aleeze123/blob/output/github-snake-dark.svg)
 
   
 ### ✍️ Random Dev Quote
