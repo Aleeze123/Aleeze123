@@ -61,10 +61,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aleeze123&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
- ### 🐍 Snake Animation (Contributions)
- 
-
-![snake gif](https://github.com/Aleeze123/Aleeze123/blob/output/github-contribution-grid-snake.svg)
 
   
 ### ✍️ Random Dev Quote
