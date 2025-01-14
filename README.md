@@ -1,7 +1,4 @@
-Log in
 
-Sign up
-You said:
 <h1 align="center">Hey 👋, I'm Aleeza...</h1>
 
 <h2 align="center">Future Certified Cloud Applied Generative AI Engineer 🚀</h2>
