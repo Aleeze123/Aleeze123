@@ -26,7 +26,10 @@
 - 😄 Pronouns: she/her
 
 
-![Fun GIF](https://media.giphy.com/media/3o7TKkMdyXz0h2m7o4/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vRoxw8yWKn62ltm/giphy.gif" width="200" align="left" alt="Patel Left GIF"/>
+  <img src="https://media.giphy.com/media/3o6gE5aYq3zVxXjdfu/giphy.gif" width="200" align="right" alt="Patel Right GIF"/>
+</p>
 
 
 ###  🌐 Socials:
