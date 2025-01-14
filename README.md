@@ -1,4 +1,5 @@
 <h1 align="center">Hey 👋, I'm Aleeza...</h1>
+<h2 align="center">Frontend Developer UI/UX Designer</h2>
 <h2 align="center">Future Certified Cloud Applied Generative AI Engineer ....</h2>
 
 <p align="center"> 
