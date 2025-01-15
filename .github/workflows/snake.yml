@@ -13,6 +13,10 @@ jobs:
     - name: Checkout the repository
       uses: actions/checkout@v3  # Use the latest version of the checkout action
 
+    - name: Debugging Step (Check User Info)
+      run: |
+        curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" "https://api.github.com/users/Aleeze123"
+
     - name: Generate the snake contribution GIF and SVG
       uses: Platane/snk@v2.0.0  # Use the stable version of Platane/snk
       id: snake-gif
