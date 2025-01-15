@@ -11,18 +11,17 @@ jobs:
 
     steps:
     - name: Checkout the repository
-      uses: actions/checkout@v3  # Updated to the latest version
+      uses: actions/checkout@v3  # Use the latest version of the checkout action
 
     - name: Generate the snake contribution GIF and SVG
-      uses: Platane/snk@v2.0.0  # Updated to a stable version
+      uses: Platane/snk@v2.0.0  # Use the stable version of Platane/snk
       id: snake-gif
       with:
         github_user_name: Aleeze123
-        gif_out_path: dist/github-contribution-grid-snake.gif
-        svg_out_path: dist/github-contribution-grid-snake.svg
+        outputs: dist/github-contribution-grid-snake  # The directory where the snake files will be saved
 
     - name: Push changes to output branch
-      uses: ad-m/github-push-action@v0.6.0  # Consider specifying a stable version
+      uses: ad-m/github-push-action@v0.6.0  # Use a stable version of the push action
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: output
