@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Aleeza...</h1>
+<h1 align="center">Hey <img width="35" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif">, I'm Aleeza...</h1>
 
 <h2 align="center">Future Certified Cloud Applied Generative AI Engineer 🚀</h2>
 
