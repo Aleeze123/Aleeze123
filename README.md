@@ -1,12 +1,12 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px">, I'm Aleeza 👩‍💻</h1>
 
 <br>
+
+<div align="center">
 <!-- Profile Views Badge -->
   <a href="https://github.com/Aleeze123">
-    <img src="https://komarev.com/ghpvc/?username=Aleeze123&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Aleeze123&label=Profile%20Views&color=brightpurple&style=flat" alt="Profile Views"/>
   </a>
-<div align="center">
-
   <a href="https://github.com/Aleeze123?tab=followers">
     <img src="https://img.shields.io/github/followers/Aleeze123?label=Followers&style=social" alt="Github Followers"/>
   </a>
