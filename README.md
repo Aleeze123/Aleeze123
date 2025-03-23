@@ -46,7 +46,7 @@ Hello! I'm **Aleeza**, a **Full-Stack Developer** and a passionate **Tech Enthus
 
 ---
 
-Feel free to reach out if you want to chat, collaborate, or work on exciting projects together! ✨🚀
+
 
  ### 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
