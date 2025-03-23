@@ -6,8 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=Aleeze123&label=%20Profile%20Views&color=FF6347&style=flat-square&labelColor=FFFFFF" alt="Profile Views Counter" width="18%" /> 
 </p>
 
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/f4/92/a0/f492a0d0866912f3e1f138451193564d.jpg"/>
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/84/a0/7e/84a07e5c227ad2345d7e807925849ee2.jpg"/>
 <a href="https://github.com/Aleeze123?tab=followers">
   <img src="https://img.shields.io/github/followers/Aleeze123?label=Followers&style=social" alt="">
 </a>
