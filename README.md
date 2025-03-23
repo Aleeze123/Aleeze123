@@ -6,9 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=Aleeze123&label=%20Profile%20Views&color=FF6347&style=flat-square&labelColor=FFFFFF" alt="Profile Views Counter" width="18%" /> 
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/f4/92/a0/f492a0d0866912f3e1f138451193564d.jpg"/> 
-
-
 
 
 <a href="https://github.com/Aleeze123?tab=followers">
