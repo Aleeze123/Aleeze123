@@ -14,8 +14,7 @@
     - 🔭 I am currently serving as a Senior Student at the prestigious Governor Sindh IT Course.<br>
     - 💬 Ask anything....<br>
     - 📫 How to reach me: alizey649@gmail.com, 
-      [LinkedIn Profile](https://www.linkedin.com/in/aleeza-a-i68735305/)
-
+          [LinkedIn Profile](https://www.linkedin.com/in/aleeza-a-i68735305/)
     - 😄 Pronouns: she/her ...
   </p>
 </div>
