@@ -1,24 +1,33 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px">, I'm Aleeza...</h1>
-
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px">, I'm Aleeza 👩‍💻</h1>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EBF73D&background=FFEEAE00&width=435&lines=Full-Stack+Developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EBF73D&background=FFEEAE00&width=435&lines=Full-Stack+Developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  </a>
   <a href="https://github.com/Aleeze123?tab=followers">
-    <img src="https://img.shields.io/github/followers/Aleeze123?label=Followers&style=social" alt="Github Followers">
+    <img src="https://img.shields.io/github/followers/Aleeze123?label=Followers&style=social" alt="Github Followers"/>
   </a>
   <p>
     - 🔭 I am currently serving as a Senior Student at the prestigious Governor Sindh IT Course.<br>
-    - 💬 Ask anything....<br>
-    - 📫 How to reach me: alizey649@gmail.com, https://www.linkedin.com/in/aleeza-a-i68735305/
-    <br>
-    - 😄 Pronouns: she/her ...<br>
-<a href="https://next-js-milestone02-portfolio.vercel.app/">🔗Check out my Portfolio</a> 
-
-
+    - 💬 Ask me anything about tech, coding, or anything else!<br>
+    - 📫 Reach me at: <a href="mailto:alizey649@gmail.com">alizey649@gmail.com</a> | <a href="https://www.linkedin.com/in/aleeza-a-i68735305/">LinkedIn</a><br>
+    - 😄 Pronouns: she/her<br>
+    - 🌐 <a href="https://next-js-milestone02-portfolio.vercel.app/">Check out my Portfolio</a> 🌟
   </p>
 </div>
 
+### 🧑‍💻 About Me:
+
+Hello! I'm **Aleeza**, a **Full-Stack Developer** and a passionate **Tech Enthusiast** from Pakistan. I'm currently a senior student at the **Governor Sindh IT Course** 🎓, always looking for ways to learn new things and grow in the ever-evolving world of technology. My focus is on creating powerful, responsive web applications with a seamless user experience! 💻
+
+- 🔭 **What I do**: I'm currently building projects with **React**, **Node.js**, and **Next.js**, and I love creating scalable applications that can solve real-world problems. 💡
+- 💬 **Ask me about**: Anything related to **JavaScript**, **Frontend Development**, **Backend Technologies**, **UI/UX Design**, or even **Tech Trends**.  🤖
+- 🌱 **Learning**: I am currently learning more about **Cloud Technologies**, **Mobile Development** with **React Native**, and exploring the exciting world of **AI and Machine Learning**! 🚀
+- 🛠️ **Tech Stack**: My toolkit includes **JavaScript**, **React**, **Node.js**, **Next.js**, **MongoDB**, **Git**, and much more. I’m passionate about creating clean, maintainable code and working on collaborative projects. 🖥️
+**Designing**: I’m passionate about **UI/UX Design**, crafting intuitive and visually appealing interfaces with tools like **Figma**. My focus is on creating seamless user experiences that combine both functionality and aesthetic appeal. 🌟
+
 ### 🌐 Socials:
+
 <div align="center">
   <a href="https://github.com/Aleeze123">
     <img src="https://img.shields.io/badge/Github-coral?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
@@ -34,6 +43,9 @@
   </a>
 </div>
 
+---
+
+Feel free to reach out if you want to chat, collaborate, or work on exciting projects together! ✨🚀
 
  ### 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
