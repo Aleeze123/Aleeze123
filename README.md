@@ -15,7 +15,7 @@
     - 💬 Ask anything....<br>
     - 📫 How to reach me: alizey649@gmail.com, 
       [LinkedIn Profile](https://www.linkedin.com/in/aleeza-a-i68735305/)
-    <br>
+
     - 😄 Pronouns: she/her ...
   </p>
 </div>
