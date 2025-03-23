@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/github/followers/Aleeze123?label=Followers&style=social" alt="Github Followers"/>
   </a>
   <p>
-    - 🔭 I am currently serving as a Senior Student at the prestigious Governor Sindh IT Course.<br>
+    - 🔭 I am currently serving as a Student at the prestigious Governor Sindh IT Course.<br>
     - 💬 Ask me anything about tech, coding, or anything else!<br>
     - 📫 Reach me at: <a href="mailto:alizey649@gmail.com">alizey649@gmail.com</a> | <a href="https://www.linkedin.com/in/aleeza-a-i68735305/">LinkedIn</a><br>
     - 😄 Pronouns: she/her<br>
