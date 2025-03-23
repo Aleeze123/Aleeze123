@@ -1,7 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px">, I'm Aleeza...</h1>
 
-<h2 align="center">Future Certified Cloud Applied Generative AI Engineer 🚀</h2>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7EF2D&width=435&lines=FULL-STACK+DEVELOPER%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;UI%2FUX+DESIGNER%F0%9F%9A%80;Future+Certified+Cloud+Applied+Generative+AI+Engineer" alt="Typing SVG" /></a>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Aleeze123&label=%20Profile%20Views&color=FF6347&style=flat-square&labelColor=FFFFFF" alt="Profile Views Counter" width="150" /> 
 </p>
