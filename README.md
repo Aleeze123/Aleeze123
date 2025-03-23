@@ -82,7 +82,7 @@ Hello! I'm **Aleeza**, a **Full-Stack Developer** and a passionate **Tech Enthus
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,typescript,javascript,github,npm,nextjs,linux,mongodb,python,firebase,kubernetes,docker,c" />
+    <img src="https://skillicons.dev/icons?i=git,typescript,javascript,github,npm,nextjs,react,linux,mongodb,python,firebase,kubernetes,docker,c,cs,angular,apple,bootstrap,cloudflare,css,dart,discord,figma,flutter,gitlab,gmail,ai,instagram,linkedin,prisma,pycharm,redux,svg,twitter,vite,vscode" />
   </a>
 </p>
 
