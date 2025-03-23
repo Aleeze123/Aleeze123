@@ -5,7 +5,7 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Aleeze123&label=%20Profile%20Views&color=FF6347&style=flat-square&labelColor=FFFFFF" alt="Profile Views Counter" width="18%" /> 
 </p>
-
+<img src="https://i.pinimg.com/736x/84/a0/7e/84a07e5c227ad2345d7e807925849ee2.jpg" width="300px"/>
 
 
 <a href="https://github.com/Aleeze123?tab=followers">
