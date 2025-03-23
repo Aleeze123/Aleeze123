@@ -1,10 +1,12 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px">, I'm Aleeza 👩‍💻</h1>
 
 <br>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EBF73D&background=FFEEAE00&width=435&lines=Full-Stack+Developer" alt="Typing SVG" />
+  </a>
+</div>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EBF73D&background=FFEEAE00&width=435&lines=Full-Stack+Developer" alt="Typing SVG" />
-</a>
 
 <div align="center">
 
