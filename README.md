@@ -5,20 +5,22 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Aleeze123&label=%20Profile%20Views&color=FF6347&style=flat-square&labelColor=FFFFFF" alt="Profile Views Counter" width="18%" /> 
 </p>
-<img src="https://i.pinimg.com/736x/84/a0/7e/84a07e5c227ad2345d7e807925849ee2.jpg" width="300px" style="border: 5px solid white; float: left;"/>
+<div style="display: flex; align-items: center;">
+  <img src="https://i.pinimg.com/736x/84/a0/7e/84a07e5c227ad2345d7e807925849ee2.jpg" width="300px" style="border: 5px solid white; margin-right: 20px;"/>
+  <div>
+    <a href="https://github.com/Aleeze123?tab=followers">
+      <img src="https://img.shields.io/github/followers/Aleeze123?label=Followers&style=social" alt="">
+    </a>
+    <p>
+      - 🔭 I am currently serving as a Senior Student at the prestigious Governor Sindh IT Course.<br>
+      - 💬 Ask anything....<br>
+      - 📫 How to reach me: alizey649@gmail.com, 
+        [LinkedIn Profile](https://www.linkedin.com/in/aleeza-a-i68735305/#:~:text=www.linkedin.com/in/aleeza%2Da%2Di68735305)<br>
+      - 😄 Pronouns: she/her ...
+    </p>
+  </div>
+</div>
 
-
-
-<a href="https://github.com/Aleeze123?tab=followers">
-  <img src="https://img.shields.io/github/followers/Aleeze123?label=Followers&style=social" alt="">
-</a>
-<p>
-  - 🔭 I am currently serving as a Senior Student at the prestigious Governor Sindh IT Course.<br>
-  - 💬 Ask anything....<br>
-  - 📫 How to reach me: alizey649@gmail.com, 
-    [LinkedIn Profile](https://www.linkedin.com/in/aleeza-a-i68735305/#:~:text=www.linkedin.com/in/aleeza%2Da%2Di68735305)<br>
-  - 😄 Pronouns: she/her ...
-</p>
 
 ### 🌐 Socials:
 <a href="https://github.com/Aleeze123#:~:text=Aleeze,-Aleeze123%20%C2%B7%20she">
