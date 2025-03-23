@@ -2,6 +2,7 @@
 
 
 <div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EBF73D&background=FFEEAE00&width=435&lines=Full-Stack+Developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
   <a href="https://github.com/Aleeze123?tab=followers">
     <img src="https://img.shields.io/github/followers/Aleeze123?label=Followers&style=social" alt="Github Followers">
   </a>
