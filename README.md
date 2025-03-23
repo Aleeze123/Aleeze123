@@ -18,9 +18,9 @@
       - 😄 Pronouns: she/her ...
     </p>
   </div>
-  <img src="https://i.pinimg.com/736x/84/a0/7e/84a07e5c227ad2345d7e807925849ee2.jpg" width="300px" style="border: 5px solid white; margin-left: 20px;"/>
+<!--   <img src="https://i.pinimg.com/736x/84/a0/7e/84a07e5c227ad2345d7e807925849ee2.jpg" width="300px" style="border: 5px solid white; margin-left: 20px;"/>
 
-
+ -->
 
 ### 🌐 Socials:
 <a href="https://github.com/Aleeze123#:~:text=Aleeze,-Aleeze123%20%C2%B7%20she">
