@@ -7,9 +7,9 @@
   <a href="https://github.com/Aleeze123">
     <img src="https://komarev.com/ghpvc/?username=Aleeze123&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/Aleeze123">
+<!--   <a href="https://github.com/Aleeze123">
   <img src="https://profile-counter.glitch.me/Aleeze123/count.svg" alt="Profile Views"/>
-</a>
+</a> -->
   <a href="https://github.com/Aleeze123?tab=followers">
     <img src="https://img.shields.io/github/followers/Aleeze123?label=Followers&style=social" alt="Github Followers"/>
   </a>
