@@ -7,6 +7,9 @@
   <a href="https://github.com/Aleeze123">
     <img src="https://komarev.com/ghpvc/?username=Aleeze123&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
   </a>
+  <a href="https://github.com/Aleeze123">
+  <img src="https://profile-counter.glitch.me/Aleeze123/count.svg" alt="Profile Views"/>
+</a>
   <a href="https://github.com/Aleeze123?tab=followers">
     <img src="https://img.shields.io/github/followers/Aleeze123?label=Followers&style=social" alt="Github Followers"/>
   </a>
@@ -89,9 +92,7 @@ Hello! I'm **Aleeza**, a **Full-Stack Developer** and a passionate **Tech Enthus
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleeze123&theme=dark)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aleeze123&theme=dark&hide_border=false)<br/>
-<a href="https://github.com/Aleeze123">
-  <img src="https://profile-counter.glitch.me/Aleeze123/count.svg" alt="Profile Views"/>
-</a>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
