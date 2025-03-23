@@ -1,11 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px">, I'm Aleeza 👩‍💻</h1>
 
 <br>
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&background=FFEEAE00&width=464&height=58&lines=++Full-Stack+Developer" alt="Typing SVG" />
-  </a>
-</div>
 
 <div align="center">
 
@@ -23,13 +18,14 @@
 
 ### 🧑‍💻 About Me:
 
-Hello! I'm **Aleeza**, a **Full-Stack Developer** and a passionate **Tech Enthusiast** from Pakistan. I'm currently a senior student at the **Governor Sindh IT Course** 🎓, always looking for ways to learn new things and grow in the ever-evolving world of technology. My focus is on creating powerful, responsive web applications with a seamless user experience! 💻
+Hello! I'm **Aleeza**, a **Full-Stack Developer** and a passionate **Tech Enthusiast** from Pakistan. I'm currently a student at the **Governor Sindh IT Course** 🎓, always eager to learn and grow in the ever-evolving world of technology. My focus is on creating powerful, responsive web applications with a seamless user experience! 💻
 
-- 🔭 **What I do**: I'm currently building projects with **React**, **Node.js**, and **Next.js**, and I love creating scalable applications that can solve real-world problems. 💡
-- 💬 **Ask me about**: Anything related to **JavaScript**, **Frontend Development**, **Backend Technologies**, **UI/UX Design**, or even **Tech Trends**.  🤖
-- 🌱 **Learning**: I am currently learning more about **Cloud Technologies**, **Mobile Development** with **React Native**, and exploring the exciting world of **AI and Machine Learning**! 🚀
-- 🛠️ **Tech Stack**: My toolkit includes **JavaScript**, **React**, **Node.js**, **Next.js**, **MongoDB**, **Git**, and much more. I’m passionate about creating clean, maintainable code and working on collaborative projects. 🖥️
-**Designing**: I’m passionate about **UI/UX Design**, crafting intuitive and visually appealing interfaces with tools like **Figma**. My focus is on creating seamless user experiences that combine both functionality and aesthetic appeal. 🌟
+- 🔭 **What I do**: Specializing in **React**, **Node.js**, and **Next.js**, I build scalable applications that solve real-world problems. 💡
+- 💬 **Ask me about**: Anything related to **JavaScript**, **Frontend Development**, **Backend Technologies**, **UI/UX Design**, or **Tech Trends**.  🤖
+- 🌱 **Learning**: Exploring **Agentic AI** and **Machine Learning** to develop intelligent, AI-powered systems. 🚀 Additionally, expanding my knowledge in **Cloud Technologies**, **Mobile Development** with **React Native**, and **AI-based solutions**.
+- 🛠️ **Tech Stack**: Proficient in **JavaScript**, **React**, **Node.js**, **Next.js**, **MongoDB**, **Git**, **Firebase**, and more! Passionate about creating clean, maintainable code and collaborating on innovative projects. 🖥️
+- 🎨 **Designing**: Passionate about **UI/UX Design**, crafting intuitive and visually appealing interfaces using **Figma**. Focused on delivering seamless user experiences that combine functionality with aesthetics. 🌟
+- 💼 **Current Focus**: With experience in **Next.js**, **TypeScript**, **Python**, **MongoDB**, and **Firebase**, I’m currently deepening my understanding of **AI** and **Machine Learning** to build smart, innovative applications.
 
 ### 🌐 Socials:
 
