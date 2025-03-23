@@ -11,7 +11,7 @@
     - 📫 How to reach me: alizey649@gmail.com, https://www.linkedin.com/in/aleeza-a-i68735305/
     <br>
     - 😄 Pronouns: she/her ...<br>
-<a href="https://next-js-milestone02-portfolio.vercel.app/">Check out my Portfolio</a> to see my latest projects and skills!
+<a href="https://next-js-milestone02-portfolio.vercel.app/">🔗Check out my Portfolio</a> 
 
 
   </p>
