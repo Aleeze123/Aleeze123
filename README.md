@@ -78,10 +78,13 @@ Hello! I'm **Aleeza**, a **Full-Stack Developer** and a passionate **Tech Enthus
 ###
 
 ### Languages and Tools:
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,github,npm,react.js,nextjs,linux,mongodb,python,firebase,sanity" alt="My Skills" />
-</a>
 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,typescript,javascript,github,npm,react.js,nextjs,linux,mongodb,python,firebase,sanity,kubernetes,docker,c" />
+  </a>
+</p>
 # 🚀 GitHub Stats:
 ![Aleeza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleeze123&show_icons=true&theme=dark)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Aleeze123&bg_color=000000&color=ffffff&line=1100ff&point=ffffff&area=true&hide_border=true)
