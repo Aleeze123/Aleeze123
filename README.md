@@ -1,4 +1,8 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px">, I'm Aleeza 👩‍💻</h1>
+<h1 align="center">
+  Hey 
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="25px" width="25px">, 
+  I'm Aleeza 👩‍💻
+</h1>
 
 <br>
 
