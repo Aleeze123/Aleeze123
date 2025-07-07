@@ -1,12 +1,20 @@
-<h1 align="center">
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4A00E0;">
   Hey 
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="25px" width="25px">, 
-  I'm Aleeza 👩‍💻
+  I'm <span style="color:#FF4E50;">Aleeza 👩‍💻</span>
 </h1>
 
-<h3 align="center">
-  Full Stack Developer 💻🌐
+<h2 align="center" style="font-family: 'Courier New', Courier, monospace; background: linear-gradient(to right, #8E2DE2, #4A00E0); -webkit-background-clip: text; color: transparent;">
+  🚀 Full Stack Developer 💻
+</h2>
+
+<h3 align="center" style="font-family: 'Poppins', sans-serif; color: #333;">
+  Crafting Code &amp; Creating Magic with <span style="color:#FF6B81;">React</span>, <span style="color:#5BCEFA;">Node.js</span>, <span style="color:#F7DF1E;">Typescript,JavaScript</span> &amp; ❤️
 </h3>
+
+<p align="center" style="font-style: italic; color: #888;">
+  "Turning ideas into interactive experiences — one line of code at a time."
+</p>
 
 <br>
 
