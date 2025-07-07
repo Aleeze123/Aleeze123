@@ -4,6 +4,10 @@
   I'm Aleeza 👩‍💻
 </h1>
 
+<h3 align="center">
+  Full Stack Developer 💻🌐
+</h3>
+
 <br>
 
 <div align="center">
