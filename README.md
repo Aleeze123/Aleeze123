@@ -34,7 +34,7 @@
     - 💬 Ask me anything about tech, coding, or anything else!<br>
     - 📫 Reach me at: <a href="mailto:alizey649@gmail.com">alizey649@gmail.com</a> | <a href="https://www.linkedin.com/in/aleeza-a-i68735305/">LinkedIn</a><br>
     - 😄 Pronouns: she/her<br>
-    - 🌐 <a href="https://next-js-milestone02-portfolio.vercel.app/">Check out my Portfolio</a> 🌟
+    - 🌐 <a href="https://aleeza-theta.vercel.app/">Check out my Portfolio</a> 🌟
   </p>
 </div>
 
