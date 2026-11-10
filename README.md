@@ -1,15 +1,22 @@
 
 <!-- ================= HEADER ================= -->
 <h1 align="center">
-  Hey 👋, I'm <span>Aleeza 👩‍💻</span>
+  Hey
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
+       height="28px"
+       width="28px"
+       alt="Waving Hand"/>
+  , I'm <span>Aleeza 👩‍💻</span>
 </h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=27&duration=1&pause=1000&color=C77D91&center=true&vCenter=true&repeat=false&width=500&lines=Full-Stack+Developer" alt="Full-Stack Developer"/>
-</h3>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=27&duration=1000&pause=1000&color=C77D91&center=true&vCenter=true&repeat=true&width=500&lines=Full-Stack+Developer"
+       alt="Full-Stack Developer"/>
+</h2>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=19&duration=1&pause=1000&color=C77D91&center=true&vCenter=true&repeat=false&width=650&lines=Augmented+Reality+(AR)+Lens+Creator+%7C+AI+Enthusiast+%7C+Web+Innovator" alt="Augmented Reality Lens Creator | AI Enthusiast | Web Innovator"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=19&duration=1000&pause=1000&color=C77D91&center=true&vCenter=true&repeat=true&width=650&lines=Augmented+Reality+(AR)+Lens+Creator+%7C+AI+Enthusiast+%7C+Web+Innovator"
+       alt="Augmented Reality Lens Creator | AI Enthusiast | Web Innovator"/>
 </h3>
 
 <p align="center">
@@ -19,6 +26,7 @@
 <p align="center">
   <i>"Building the Future with Code, Intelligence & Scalable Web Experiences."</i>
 </p>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Aleeze123&label=PROFILE%20VIEWS&color=800020&style=for-the-badge" alt="Profile Views"/>
