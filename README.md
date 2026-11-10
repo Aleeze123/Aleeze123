@@ -207,8 +207,6 @@ I love transforming creative ideas into meaningful digital experiences by buildi
 
 ## 📈 Contribution Graph
 
-<h2 align="center">📈 GitHub Contributions</h2>
-
 <p align="center">
   <img
     src="https://ghchart.rshah.org/800020/Aleeza123"
