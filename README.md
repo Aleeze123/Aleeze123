@@ -11,15 +11,15 @@
 
 
 
+
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=27&duration=1&pause=1000&color=800020&center=true&vCenter=true&repeat=false&width=500&lines=Full-Stack+Developer"
-       alt="Full-Stack Developer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=27&duration=1&pause=1000&color=800020&center=true&vCenter=true&repeat=false&width=500&lines=Full-Stack+Developer" alt="Full-Stack Developer"/>
 </h2>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=19&duration=1&pause=1000&color=A64D68&center=true&vCenter=true&repeat=false&width=750&lines=✦+AR+Lens+Creator+%7C+AI+Enthusiast+%7C+Web+Innovator+✦"
-       alt="AR Lens Creator | AI Enthusiast | Web Innovator"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=19&duration=1&pause=1000&color=A64D68&center=true&vCenter=true&repeat=false&width=750&lines=AR+Lens+Creator+%7C+AI+Enthusiast+%7C+Web+Innovator" alt="AR Lens Creator | AI Enthusiast | Web Innovator"/>
 </h3>
+
 
 
 <p align="center">
