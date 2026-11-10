@@ -207,10 +207,15 @@ I love transforming creative ideas into meaningful digital experiences by buildi
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleeze123&theme=redical&hide_border=true" width="100%" alt="Contribution Graph"/>
-</p>
+<h2 align="center">📈 GitHub Contributions</h2>
 
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/800020/Aleeza123"
+    alt="Aleeza's GitHub Contribution Graph"
+    width="100%"
+  />
+</p>
 ---
 
 <!-- ================= SNAKE ANIMATION ================= -->
