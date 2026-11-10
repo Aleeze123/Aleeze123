@@ -1,22 +1,26 @@
 
+<!-- ================= HEADER ================= -->
+
 <h1 align="center">
-  Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="28px" width="28px">, I'm <span>Aleeza 👩‍💻</span>
+  Hey
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="28px" width="28px">
+  , I'm <span>Aleeza 👩‍💻</span>
 </h1>
 
 <h2 align="center">
-  🚀 Full-Stack Developer | AR Lens Creator | AI Enthusiast
+  🚀 Full-Stack Developer
 </h2>
 
 <h3 align="center">
-  Augmented Reality (AR) Lens Creator & Web Innovator
+  Augmented Reality (AR) Lens Creator | AI Enthusiast | Web Innovator
 </h3>
 
 <p align="center">
-  Crafting Code & Creating Magic with React, Node.js, JavaScript, TypeScript, AI & ❤️
+  Crafting Code & Creating Magic with MERN Stack, React, Node.js, AI & ❤️
 </p>
 
 <p align="center">
-  "Building the Future with Code, Intelligence & Scalable Web Experiences."
+  <i>"Building the Future with Code, Intelligence & Scalable Web Experiences."</i>
 </p>
 
 <div align="center">
@@ -30,6 +34,8 @@
 </div>
 
 ---
+
+<!-- ================= ABOUT ME ================= -->
 
 ## 👩‍💻 About Me
 
@@ -52,17 +58,22 @@ I love transforming creative ideas into meaningful digital experiences by buildi
 
 ---
 
+<!-- ================= TECHNICAL SKILLS ================= -->
+
 ## 🛠️ Technical Skills & Expertise
 
 ### 💻 Full-Stack & Web Development
+
 - MERN Stack Development
 - React.js & Next.js
 - Node.js & Express.js
 - MongoDB & Supabase
 - REST API Development
 - Responsive Web Design
+- Frontend & Backend Development
 
 ### 🤖 Artificial Intelligence
+
 - Python
 - OpenAI APIs
 - Large Language Models (LLMs)
@@ -70,19 +81,30 @@ I love transforming creative ideas into meaningful digital experiences by buildi
 - AI-Powered Solutions
 
 ### 🥽 Augmented Reality
+
 - AR Lens Creation & Development
 - Interactive AR Experiences
 - Creative Digital Experiences
 
 ### 🎨 UI/UX & Design
+
 - Figma
 - Canva
 - Modern UI Design
 - User-Centered Design
 
+### ⚡ Development Practices
+
+- Clean Code & Problem Solving
+- Scalable Architecture
+- Performance Optimization
+- Responsive Design
+
 ---
 
-## 🌐 Socials
+<!-- ================= SOCIALS ================= -->
+
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -102,9 +124,15 @@ I love transforming creative ideas into meaningful digital experiences by buildi
     <img src="https://img.shields.io/badge/Pinterest-6D071A?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/>
   </a>
 
+  <a href="mailto:alizey649@gmail.com">
+    <img src="https://img.shields.io/badge/Email-800020?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
 </div>
 
 ---
+
+<!-- ================= TECH STACK ================= -->
 
 ## 💻 Tech Stack
 
@@ -141,6 +169,8 @@ I love transforming creative ideas into meaningful digital experiences by buildi
 
 ---
 
+<!-- ================= LANGUAGES & TOOLS ================= -->
+
 ## ⚙️ Languages and Tools
 
 <p align="center">
@@ -151,49 +181,71 @@ I love transforming creative ideas into meaningful digital experiences by buildi
 
 ---
 
-## 📊 GitHub Stats
+<!-- ================= GITHUB STATS ================= -->
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aleeze123&show_icons=true&hide_border=true&bg_color=1A0008&title_color=FFB6C1&icon_color=C2185B&text_color=FFFFFF" alt="Aleeza's GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aleeze123&show_icons=true&theme=radical&hide_border=true" alt="Aleeza GitHub Stats"/>
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleeze123&layout=compact&hide_border=true&bg_color=1A0008&title_color=FFB6C1&text_color=FFFFFF" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aleeze123&theme=dark&background=1A0008&ring=C2185B&fire=FFB6C1&currStreakLabel=FFB6C1&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" alt="GitHub Streak"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleeze123&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
+
+<!-- ================= GITHUB STREAK ================= -->
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Aleeze123&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+<!-- ================= CONTRIBUTION GRAPH ================= -->
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleeze123&bg_color=1A0008&color=FFB6C1&line=C2185B&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleeze123&theme=redical&hide_border=true" width="100%" alt="Contribution Graph"/>
+</p>
 
 ---
+
+<!-- ================= SNAKE ANIMATION ================= -->
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aleeze123/Aleeze123/output/snake.svg" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/Aleeze123/Aleeze123/output/snake.svg" alt="Contribution Snake Animation"/>
 </p>
 
 ---
+
+<!-- ================= RANDOM DEV QUOTE ================= -->
 
 ## ✨ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Developer Quote"/>
 </p>
 
 ---
+
+<!-- ================= FOOTER ================= -->
 
 <h3 align="center">
   💗 Thanks for Visiting My Profile!
 </h3>
 
 <h4 align="center">
-  🚀 Full-Stack Developer | AR Lens Creator | AI Enthusiast | Web Innovator
+  Full-Stack Developer | Augmented Reality (AR) Lens Creator | AI Enthusiast | Web Innovator
 </h4>
+
+<p align="center">
+  <i>Building the Future with Code, Intelligence & Scalable Web Experiences.</i>
+</p>
 
 <p align="center">
   ⭐ From <a href="https://github.com/Aleeze123">Aleeza</a> with ❤️
