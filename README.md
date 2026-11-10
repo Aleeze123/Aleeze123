@@ -9,15 +9,14 @@
   , I'm <span>Aleeza 👩‍💻</span>
 </h1>
 
-<!-- PREMIUM BURGUNDY & ROSE HEADER -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=29&duration=1&pause=1000&color=701D38&center=true&vCenter=true&repeat=false&width=550&lines=Full-Stack+Developer" alt="Full-Stack Developer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=29&duration=1&pause=1000&color=B76E86&center=true&vCenter=true&repeat=false&width=600&lines=Full-Stack+MERN+Developer"
+       alt="Full-Stack Developer"/>
 </h2>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=19&duration=1&pause=1000&color=A65D78&center=true&vCenter=true&repeat=false&width=750&lines=AR+Lens+Creator+%E2%9C%A6+AI+Enthusiast+%E2%9C%A6+Web+Innovator"
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=19&duration=1&pause=1000&color=C08096&center=true&vCenter=true&repeat=false&width=750&lines=AR+Lens+Creator+%E2%9C%A6+AI+Enthusiast+%E2%9C%A6+Web+Innovator"
        alt="AR Lens Creator | AI Enthusiast | Web Innovator"/>
   <br/>
   <sub>✧ C R E A T I N G · I N N O V A T I N G · B U I L D I N G ✧</sub>
