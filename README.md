@@ -9,13 +9,14 @@
   , I'm <span>Aleeza 👩‍💻</span>
 </h1>
 
+
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=27&duration=1000&pause=1000&color=C77D91&center=true&vCenter=true&repeat=true&width=500&lines=Full-Stack+Developer"
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=27&duration=1&pause=1000&color=800020&background=FCE4EC&center=true&vCenter=true&repeat=false&width=500&lines=Full-Stack+Developer"
        alt="Full-Stack Developer"/>
 </h2>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=19&duration=1000&pause=1000&color=C77D91&center=true&vCenter=true&repeat=true&width=650&lines=Augmented+Reality+(AR)+Lens+Creator+%7C+AI+Enthusiast+%7C+Web+Innovator"
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=19&duration=1&pause=1000&color=800020&background=FCE4EC&center=true&vCenter=true&repeat=false&width=650&lines=Augmented+Reality+(AR)+Lens+Creator+%7C+AI+Enthusiast+%7C+Web+Innovator"
        alt="Augmented Reality Lens Creator | AI Enthusiast | Web Innovator"/>
 </h3>
 
