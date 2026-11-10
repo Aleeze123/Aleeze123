@@ -1,18 +1,15 @@
 
 <!-- ================= HEADER ================= -->
-
 <h1 align="center">
-  Hey
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="28px" width="28px">
-  , I'm <span>Aleeza 👩‍💻</span>
+  Hey 👋, I'm <span>Aleeza 👩‍💻</span>
 </h1>
 
 <h2 align="center">
-  🚀 Full-Stack Developer
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=27&duration=1&pause=1000&color=C77D91&center=true&vCenter=true&repeat=false&width=500&lines=Full-Stack+Developer" alt="Full-Stack Developer"/>
 </h2>
 
 <h3 align="center">
-  Augmented Reality (AR) Lens Creator | AI Enthusiast | Web Innovator
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=19&duration=1&pause=1000&color=C77D91&center=true&vCenter=true&repeat=false&width=650&lines=Augmented+Reality+(AR)+Lens+Creator+%7C+AI+Enthusiast+%7C+Web+Innovator" alt="Augmented Reality Lens Creator | AI Enthusiast | Web Innovator"/>
 </h3>
 
 <p align="center">
@@ -24,19 +21,16 @@
 </p>
 
 <div align="center">
-
   <img src="https://komarev.com/ghpvc/?username=Aleeze123&label=PROFILE%20VIEWS&color=800020&style=for-the-badge" alt="Profile Views"/>
 
   <a href="https://github.com/Aleeze123?tab=followers">
-    <img src="https://img.shields.io/github/followers/Aleeze123?label=Followers&style=for-the-badge&color=6D071A" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/Aleeze123?label=Followers&style=for-the-badge&color=6D071A&cacheSeconds=300" alt="GitHub Followers"/>
   </a>
-
 </div>
 
 ---
 
 <!-- ================= ABOUT ME ================= -->
-
 ## 👩‍💻 About Me
 
 Hello! I'm **Aleeza**, a passionate **Full-Stack Developer, Augmented Reality (AR) Lens Creator, AI Enthusiast, and Web Innovator** from Pakistan.
@@ -59,7 +53,6 @@ I love transforming creative ideas into meaningful digital experiences by buildi
 ---
 
 <!-- ================= TECHNICAL SKILLS ================= -->
-
 ## 🛠️ Technical Skills & Expertise
 
 ### 💻 Full-Stack & Web Development
@@ -103,7 +96,6 @@ I love transforming creative ideas into meaningful digital experiences by buildi
 ---
 
 <!-- ================= SOCIALS ================= -->
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -133,7 +125,6 @@ I love transforming creative ideas into meaningful digital experiences by buildi
 ---
 
 <!-- ================= TECH STACK ================= -->
-
 ## 💻 Tech Stack
 
 <p align="center">
@@ -170,27 +161,24 @@ I love transforming creative ideas into meaningful digital experiences by buildi
 ---
 
 <!-- ================= LANGUAGES & TOOLS ================= -->
-
 ## ⚙️ Languages and Tools
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aleeze123&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aleeze123&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
 <!-- ================= GITHUB STATS ================= -->
-
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Aleeze123&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Aleeze123&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 ---
 
 <!-- ================= GITHUB STREAK ================= -->
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -200,20 +188,17 @@ I love transforming creative ideas into meaningful digital experiences by buildi
 ---
 
 <!-- ================= CONTRIBUTION GRAPH ================= -->
-
 ## 📈 Contribution Graph
 
 <p align="center">
   <img
-    src="https://ghchart.rshah.org/800020/Aleeza123"
+    src="https://ghchart.rshah.org/800020/Aleeze123"
     alt="Aleeza's GitHub Contribution Graph"
     width="100%"
   />
 </p>
 
-
 <!-- ================= SNAKE ANIMATION ================= -->
-
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -223,7 +208,6 @@ I love transforming creative ideas into meaningful digital experiences by buildi
 ---
 
 <!-- ================= RANDOM DEV QUOTE ================= -->
-
 ## ✨ Random Dev Quote
 
 <p align="center">
@@ -233,7 +217,6 @@ I love transforming creative ideas into meaningful digital experiences by buildi
 ---
 
 <!-- ================= FOOTER ================= -->
-
 <h3 align="center">
   💗 Thanks for Visiting My Profile!
 </h3>
