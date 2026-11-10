@@ -18,11 +18,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=19&duration=1&pause=1000&color=A65D78&center=true&vCenter=true&repeat=false&width=750&lines=AR+Lens+Creator+%E2%9C%A6+AI+Enthusiast+%E2%9C%A6+Web+Innovator" alt="AR Lens Creator | AI Enthusiast | Web Innovator"/>
 </p>
-
 <p align="center">
   <sub>✧ C R E A T I N G  ·  I N N O V A T I N G  ·  B U I L D I N G ✧</sub>
 </p>
-
+ <br><br>
 
 <p align="center">
   Crafting Code & Creating Magic with MERN Stack, React, Node.js, AI & ❤️
