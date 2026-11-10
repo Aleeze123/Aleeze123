@@ -21,8 +21,7 @@
 <p align="center">
   <sub>✧ C R E A T I N G  ·  I N N O V A T I N G  ·  B U I L D I N G ✧</sub>
 </p>
- <br><br>
-
+<br>
 <p align="center">
   Crafting Code & Creating Magic with MERN Stack, React, Node.js, AI & ❤️
 </p>
