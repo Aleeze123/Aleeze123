@@ -174,9 +174,7 @@ I love transforming creative ideas into meaningful digital experiences by buildi
 ## ⚙️ Languages and Tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,typescript,javascript,github,npm,nextjs,react,nodejs,express,mongodb,python,firebase,docker,angular,bootstrap,css,figma,flutter,linux,redux,vite,vscode,supabase&theme=dark" />
-  </a>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aleeze123&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -186,9 +184,7 @@ I love transforming creative ideas into meaningful digital experiences by buildi
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aleeze123&show_icons=true&theme=radical&hide_border=true" alt="Aleeza GitHub Stats"/>
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleeze123&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Aleeze123&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -214,7 +210,7 @@ I love transforming creative ideas into meaningful digital experiences by buildi
     width="100%"
   />
 </p>
----
+
 
 <!-- ================= SNAKE ANIMATION ================= -->
 
